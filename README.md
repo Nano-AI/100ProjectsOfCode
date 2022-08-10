@@ -99,7 +99,7 @@ All work and no play makes jack a dull boy! Games are a must to enjoy and learn 
   - [ ] [Pong AI](#pong-ai)
   - [ ] [Risk](#risk)
   - [ ] [Chess](#chess)
-  - [ ] [Snake](#snake)
+  - [X] [Snake](#snake)
   - [ ] [Tetris](#tetris)
   - [ ] [Chess AI](#chess-ai)
   - [ ] [Snake AI](#snake-ai)
